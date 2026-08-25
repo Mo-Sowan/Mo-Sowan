@@ -15,7 +15,7 @@ Results-driven Back-end Developer with a strong foundation in Computer Science a
 | **Backend Core** | C#, ASP.NET Core Web API, Python |
 | **Databases & ORM** | PostgreSQL, SQL Server, Entity Framework Core |
 | **Caching & Messaging**| Redis, MassTransit, RabbitMQ |
-| **DevOps & Tools** | Docker, Git, JetBrains Rider |
+| **DevOps & Tools** | Docker, Git, Github |
 | **Architecture** | Clean Architecture, RESTful APIs, System Design |
 | **Mobile (Familiarity)**| React Native, Flutter |
 
@@ -30,7 +30,7 @@ Results-driven Back-end Developer with a strong foundation in Computer Science a
 
 **English as a Second Language (ESL) Teacher** 
 *   Delivered structured English instruction to diverse age groups, from primary pupils to adults.
-*   Earned Band 3 out of 4 on Cambridge Teaching Knowledge Test (TKT) Modules 1, 2, and 3.
+*   Earned Band 3 out of 4 on Cambridge Teaching Knowledge Test (TKT)
 
 ---
 
