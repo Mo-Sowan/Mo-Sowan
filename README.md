@@ -1,97 +1,63 @@
-# 👨‍💻 Hi, I'm Mohammed Sowan!
+# Mohammed Sowan
 
-### ⚙️ Backend Software Developer & System Architecture Enthusiast
+Backend developer based in Tripoli, Libya.
 
-Results-driven Back-end Developer with a strong foundation in Computer Science and Information Technology. Specializing in **C#**, **ASP.NET Core**, and **Clean Architecture**, I focus on building scalable, high-performance enterprise systems and robust APIs. With a unique background in education before transitioning to software engineering, I bring strong bilingual communication and analytical problem-solving skills to every team.
+I work mainly with C#, ASP.NET Core, and relational databases. I enjoy backend work that involves APIs, system design, and keeping a codebase understandable as it grows.
 
-📍 **Based in Tripoli, Libya.** 
+Before moving into software development, I taught English to children and adults. That experience still helps me explain technical decisions clearly and work comfortably in both Arabic and English.
 
----
+## What I work with
 
-### 🛠️ Tech Stack & Skills
+- Backend: C#, ASP.NET Core Web API, Python
+- Data: PostgreSQL, SQL Server, Entity Framework Core
+- Messaging and caching: RabbitMQ, MassTransit, Redis
+- Tools: Docker, Git, GitHub
+- Architecture: Clean Architecture, REST APIs, system design
+- Mobile experience: React Native and Flutter
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend Core** | C#, ASP.NET Core Web API, Python |
-| **Databases & ORM** | PostgreSQL, SQL Server, Entity Framework Core |
-| **Caching & Messaging**| Redis, MassTransit, RabbitMQ |
-| **DevOps & Tools** | Docker, Git, Github |
-| **Architecture** | Clean Architecture, RESTful APIs, System Design |
-| **Mobile (Familiarity)**| React Native, Flutter |
+## Work
 
----
+I work as a backend developer at Masarat IT & Finance Services Company. My work has included:
 
-### 💼 Professional Experience
+- Building and delivering the POSAggregator backend module through team review and QA
+- Maintaining the OnePay commission processing service and fixing middleware and port configuration issues
+- Designing the architecture and relational database schema for a customizable e-commerce system
 
-**Back-end Developer at Masarat IT & Finance Services Company** 
-*   Architected and delivered the **POSAggregator** backend module, successfully pushing it through rigorous team code review and QA testing.
-*   Maintained and optimized the **OnePay** commission processing service, resolving complex middleware bugs and ensuring dynamic port configurations across environments.
-*   Designed the core architecture and relational database schema for a customizable white-label e-commerce engine.
+Before working in software, I taught English to students ranging from primary school pupils to adults.
 
-**English as a Second Language (ESL) Teacher** 
-*   Delivered structured English instruction to diverse age groups, from primary pupils to adults.
-*   Earned Band 3 out of 4 on Cambridge Teaching Knowledge Test (TKT)
+## Selected projects
 
----
+### [Flight Information Viewer](https://github.com/Mo-Sowan/Flight-Information-Viewer)
 
-### 🚀 Featured Projects
+A PHP and MySQL dashboard for searching and managing flight information. It includes a Docker setup for running the application and database locally.
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Apparel Web Store Engine** | A comprehensive backend engine handling high-traffic operations, inventory management, and secure order lifecycles. | `C#`, `.NET`, `PostgreSQL`, `MassTransit` |
-| **White-Label E-commerce Core** | System architecture and database schemas designed to power customizable, multi-tenant digital storefronts. | `System Design`, `SQL` |
-| **Car Horsepower Predictor** | A predictive machine learning regression model designed to estimate vehicle horsepower based on specific car attributes. | `Python`, `Machine Learning` |
-| **Signal Processing Visualizer** | A data visualization script applying an Exponential Moving Average filter to smooth MediaPipe hand-landmark coordinates. | `Python`, `Matplotlib` |
+### [Horsepower Prediction App](https://github.com/Mo-Sowan/horsepower-prediction-app)
 
----
+An Arabic Flask application that uses a regression model to estimate a vehicle's horsepower from its specifications.
 
-### 🎓 Education & Certifications
+### E-commerce backend
 
-*   🎓 **Bachelor's Degree in Computer Science and Information Technology**
-*   🛢️ **Petroleum Industry Diploma** *(Final Grade: 95%)*
-*   📝 **Cambridge TKT Certification** *(Modules 1, 2, 3)*
+A private .NET learning project where I am working with Clean Architecture, ASP.NET Core Identity, and service-based backend design.
 
----
+### Signal processing visualizer
 
-### 🗣️ Languages
+A Python visualization that applies an Exponential Moving Average filter to MediaPipe hand landmark coordinates.
 
-*   **Arabic:** Native
-*   **English:** Fluent
+## Education
 
----
+- Bachelor's degree in Computer Science and Information Technology
+- Petroleum Industry Diploma, final grade 95%
+- Cambridge Teaching Knowledge Test, Modules 1, 2, and 3, Band 3 out of 4
 
-### 🎲 Beyond the Code
-When I'm not configuring Docker containers or structuring AI prompts, you can find me:
-*   ⏱️ Speed-solving the 3x3 Rubik's cube.
-*   🏋️‍♂️ Training at the gym or researching fitness gear.
-*   🏕️ Coastal camping and exploring modern architecture.
+## Languages
 
----
+- Arabic: Native
+- English: Fluent
 
-### 📊 GitHub Analytics
+## Outside work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Mohammed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+I speed-solve the 3x3 Rubik's cube, train at the gym, and enjoy coastal camping and modern architecture.
 
----
+## Contact
 
-### 📫 Let's Connect
-
-I'm always open to discussing system design, backend development, or creative new opportunities.
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="YOUR_WEBSITE_URL_OR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio" />
-</a>
-
-<br>
-<br>
-
-> *"Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy."* — Robert C. Martin
+[LinkedIn](https://www.linkedin.com/in/mohammed-sowan-50a325237/) | [Email](mailto:msowan89@gmail.com) | [GitHub](https://github.com/Mo-Sowan)
