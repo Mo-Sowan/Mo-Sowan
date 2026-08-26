@@ -6,7 +6,7 @@ I work mainly with C#, ASP.NET Core, and relational databases. I enjoy backend w
 
 I focus on building scalable, high-performance enterprise systems and robust APIs. With a unique background in education before transitioning to software engineering, I bring strong bilingual communication and analytical problem-solving skills to every team.
 
-## What I work with
+## 🛠️What I work with
 
 - Backend: C#, ASP.NET Core Web API, Python
 - Data: PostgreSQL, SQL Server, Entity Framework Core
@@ -15,7 +15,7 @@ I focus on building scalable, high-performance enterprise systems and robust API
 - Architecture: Clean Architecture, REST APIs, system design
 - Mobile experience: React Native and Flutter
 
-## Work
+##💼Work
 
 I work as a backend developer at Masarat IT & Finance Services Company. My work has included:
 
@@ -35,7 +35,7 @@ A PHP and MySQL dashboard for searching and managing flight information. It incl
 
 An Arabic Flask application that uses a regression model to estimate a vehicle's horsepower from its specifications.
 
-## 🎓  Education
+## 🎓Education
 
 - Bachelor's degree in Computer Science and Information Technology
 - Petroleum Industry Diploma (PTQI)  
@@ -50,7 +50,7 @@ An Arabic Flask application that uses a regression model to estimate a vehicle's
 
 I speed-solve the 3x3 Rubik's cube, train at the gym, and enjoy coastal camping and modern architecture.
 
-##📫 Contact
+##📫Contact
 
 
 <a href="https://www.linkedin.com/in/mohammed-sowan-50a325237/">
