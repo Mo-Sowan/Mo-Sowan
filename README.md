@@ -1,6 +1,6 @@
-# Mohammed Sowan
+# 👨‍💻 Mohammed Sowan
 
-Backend developer based in Tripoli, Libya.
+Backend developer based in Tripoli, Libya 📍 .
 
 I work mainly with C#, ASP.NET Core, and relational databases. I enjoy backend work that involves APIs, system design, and keeping a codebase understandable as it grows.
 
@@ -35,13 +35,13 @@ A PHP and MySQL dashboard for searching and managing flight information. It incl
 
 An Arabic Flask application that uses a regression model to estimate a vehicle's horsepower from its specifications.
 
-## Education
+## 🎓  Education
 
 - Bachelor's degree in Computer Science and Information Technology
 - Petroleum Industry Diploma (PTQI)  
 - Cambridge Teaching Knowledge Test(TKT)
 
-## Languages
+## 🗣️Languages
 
 - Arabic: Native
 - English: Fluent
@@ -50,7 +50,7 @@ An Arabic Flask application that uses a regression model to estimate a vehicle's
 
 I speed-solve the 3x3 Rubik's cube, train at the gym, and enjoy coastal camping and modern architecture.
 
-## Contact
+##📫 Contact
 
 
 <a href="https://www.linkedin.com/in/mohammed-sowan-50a325237/">
