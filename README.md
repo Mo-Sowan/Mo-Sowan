@@ -4,7 +4,7 @@ Backend developer based in Tripoli, Libya.
 
 I work mainly with C#, ASP.NET Core, and relational databases. I enjoy backend work that involves APIs, system design, and keeping a codebase understandable as it grows.
 
-Before moving into software development, I taught English to children and adults. That experience still helps me explain technical decisions clearly and work comfortably in both Arabic and English.
+I focus on building scalable, high-performance enterprise systems and robust APIs. With a unique background in education before transitioning to software engineering, I bring strong bilingual communication and analytical problem-solving skills to every team.
 
 ## What I work with
 
@@ -19,9 +19,9 @@ Before moving into software development, I taught English to children and adults
 
 I work as a backend developer at Masarat IT & Finance Services Company. My work has included:
 
-- Building and delivering the POSAggregator backend module through team review and QA
-- Maintaining the OnePay commission processing service and fixing middleware and port configuration issues
-- Designing the architecture and relational database schema for a customizable e-commerce system
+- Maintaining the OnePay service and fixing middleware issues
+- Designing the architecture and the database schema for a customizable e-commerce system
+- Developing backend services and integrations for multiple banks across Libya
 
 Before working in software, I taught English to students ranging from primary school pupils to adults.
 
@@ -35,19 +35,11 @@ A PHP and MySQL dashboard for searching and managing flight information. It incl
 
 An Arabic Flask application that uses a regression model to estimate a vehicle's horsepower from its specifications.
 
-### E-commerce backend
-
-A private .NET learning project where I am working with Clean Architecture, ASP.NET Core Identity, and service-based backend design.
-
-### Signal processing visualizer
-
-A Python visualization that applies an Exponential Moving Average filter to MediaPipe hand landmark coordinates.
-
 ## Education
 
 - Bachelor's degree in Computer Science and Information Technology
-- Petroleum Industry Diploma, final grade 95%
-- Cambridge Teaching Knowledge Test, Modules 1, 2, and 3, Band 3 out of 4
+- Petroleum Industry Diploma (PTQI)  
+- Cambridge Teaching Knowledge Test(TKT)
 
 ## Languages
 
@@ -60,4 +52,13 @@ I speed-solve the 3x3 Rubik's cube, train at the gym, and enjoy coastal camping 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-sowan-50a325237/) | [Email](mailto:msowan89@gmail.com) | [GitHub](https://github.com/Mo-Sowan)
+
+<a href="https://www.linkedin.com/in/mohammed-sowan-50a325237/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="msowan89@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br>
+<br>
